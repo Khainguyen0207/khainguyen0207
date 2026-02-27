@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=khainguyen0207&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=khainguyen0207&color=blue)
