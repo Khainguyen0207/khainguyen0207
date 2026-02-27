@@ -37,5 +37,3 @@ I design clean architectures, optimize performance, and ship maintainable system
 
 ## Portfolio
 https://khai.name.vn
-
-![Portfolio Preview](./pro.png)
