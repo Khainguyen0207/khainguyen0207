@@ -4,7 +4,7 @@ Backend-focused Software Developer building scalable and production-ready web ap
 
 I design clean architectures, optimize performance, and ship maintainable systems using Laravel and modern frontend stacks.
 
-![Visitors](https://komarev.com/ghpvc/?username=khainguyen0207&color=0e75b6&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=khainguyen0207&color=0e75b6&label=Profile+Views&base=1100)
 
 ---
 
